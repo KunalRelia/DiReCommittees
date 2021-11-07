@@ -1,0 +1,5 @@
+k,10
+scoring_rule,k-plurality
+election,optimal
+election,diverse
+election,DiRe

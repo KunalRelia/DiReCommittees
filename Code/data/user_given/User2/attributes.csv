@@ -1,0 +1,5 @@
+attr_id,attr_name,candidate_voter
+attr1,gender,candidate
+attr2,race,candidate
+attr3,hair color,voter
+attr4,state,candidate

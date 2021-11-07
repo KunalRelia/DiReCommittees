@@ -1,0 +1,10 @@
+attr_grp_id,attr_id,atrr_value,lower_constraint
+attr1_1,attr1,male,1
+attr2_1,attr2,Caucasian,1
+attr3_1,attr3,blue,1
+attr4_1,attr4,NY,1
+attr1_2,attr1,female,1
+attr2_2,attr2,AA,1
+attr3_2,attr3,non-blue,1
+attr4_2,attr4,WA,1
+attr4_3,attr4,NJ,1
