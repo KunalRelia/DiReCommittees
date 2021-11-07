@@ -9,18 +9,21 @@ The goal of having a DiRe committee election is to select a committee by specify
 To execute your own election, run API/home.ipynb.
 
 To execute your own election in a controlled environment, run API/home.ipynb in a Docker environment.
+* [Instructions to install Docker on Mac](https://docs.docker.com/desktop/mac/install/)
+* [Instructions to install Docker on Windows](https://docs.docker.com/desktop/windows/install/)
+* [How to run Jupyter Notebook on Docker](https://towardsdatascience.com/how-to-run-jupyter-notebook-on-docker-7c9748ed209f)
 
-In this simulation, specify:
+Once the setup is done and you are running the jupyter notebook in a setting of your choice, our simulation allows you to specify:
 
 * the number of candidates
 * the number of voters
 * size of the committee
 * multiwinner voting rule
 
-Additionally, to generate the synthetic preferences, specify the cohesiveness factor between 0 and 1, 0 being totally cohesive and 1 being the least cohesive.
+Next, generate the synthetic preferences by specifying the cohesiveness factor between 0 and 1; 0 being totally cohesive and 1 being the least cohesive.
 
 Finally, specify:
 * the number of candidate attributes, groups per attribute, and the corresponding diversity constraints
 * the number of voter attributes, populations per attribute, and the corresponding representation constraints
 
-To generate figures, execute IPython Notebooks in "Figures" folder.
+To generate figures, execute the notebooks in the "Figures" folder.
